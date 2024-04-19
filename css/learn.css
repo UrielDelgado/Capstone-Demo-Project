@@ -1,6 +1,5 @@
 /* ==============================
-   Global Styles 
-   Sets up some defaults for the entire webpage, like font family and base margins.
+   Global Styles
    ============================== */
    body, html {
     margin: 0;
@@ -17,7 +16,6 @@
 
 /* ==============================
    Layout Styles
-   Covers the structural elements of the page, such as the header, footer, and navigation.
    ============================== */
 header, footer, nav, main, section, article, aside {
     display: block; /* Ensures these elements are treated as block-level */
@@ -51,7 +49,6 @@ nav ul li {
 
 /* ==============================
    Typography
-   Specifies styles for text elements like headings and paragraphs, including font sizes and colors.
    ============================== */
 h1, h2, h3 {
     color: #333; /* Dark grey color for headings */
@@ -72,7 +69,6 @@ p {
 
 /* ==============================
    Colors and Backgrounds
-   Sets background colors and padding for different sections like aside and article to visually separate them.
    ============================== */
 aside {
     background-color: #f0f0f0; /* Light background for aside */
@@ -89,7 +85,6 @@ article {
 
 /* ==============================
    Responsive Design
-   Adjusts layout and typography for different screen sizes using media queries, which is crucial for mobile-friendly desig
    ============================== */
 @media (max-width: 768px) {
     nav ul {
