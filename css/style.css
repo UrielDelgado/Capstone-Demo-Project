@@ -24,7 +24,7 @@ header, footer, nav, main, section, article, aside {
 }
 
 header {
-    background-color: #f8f9fa; /* Light grey background */
+    background-color: #6f2954; /* Light grey background */
     padding: 10px 20px; /* Padding around the content */
 }
 
@@ -47,6 +47,7 @@ nav ul {
 nav ul li {
     display: inline; /* Displays list items inline */
     margin-left: 20px;
+    
 }
 
 /* ==============================
